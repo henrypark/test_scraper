@@ -1,4 +1,4 @@
-#/usr/bin/env python
+#!/usr/bin/env python
 #fetching top headlines of Hacker News
 
 #importing stuff
