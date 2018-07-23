@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #fetching top headlines of Hacker News
 
-#load import module
+#load import module called BeautifulSoup
 from bs4 import BeautifulSoup
 import requests
 
